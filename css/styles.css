@@ -1,6 +1,7 @@
 body {
     font-family: 'Roboto', sans-serif;
-    color: #fff;
+    background-color: #fff;
+    color: #434455;
 }
 
 ul {
@@ -9,6 +10,10 @@ ul {
 
 a {
     text-decoration: none;
+}
+
+address {
+    font-style: normal;
 }
 
 .section-title {
